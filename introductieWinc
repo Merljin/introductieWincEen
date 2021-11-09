@@ -1,0 +1,48 @@
+//opdracht 1
+let firstName = 'Merlijn';
+console.log(firstName);
+
+//opdracht 2
+if (name = 'Merlijn') {
+  greeting = "Have a good day";
+}
+
+//opdracht 3
+let firstCalc = 4 + 4; //kan wel
+console.log(firstCalc);
+
+let secondCalc = "4" + "4"; // kan niet
+console.log(secondCalc);
+
+
+//opdracht 4
+/*
+Addition +
+Subtraction -
+Multiplication *
+Division /
+Modulus %
+*/
+
+let addition = 1 + 1;
+console.log(addition);
+
+let substraction = 2 - 1;
+console.log(substraction);
+
+let multiplication = 2 * 2;
+console.log(multiplication);
+
+let division = 3 / 2;
+console.log(division)
+
+let modulus = 5 % 100;
+console.log(modulus);
+
+//opdracht 5
+var leeftijd = 19;
+typeof 19;
+
+//opdracht 6
+leeftijd = 'negentien';
+console.log(leeftijd);
